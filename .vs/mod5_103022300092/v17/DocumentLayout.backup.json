@@ -30,9 +30,13 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\mod5_103022300092\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\mod5_103022300092\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ToolTip": "D:\\mod5_103022300092\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+>>>>>>> implementasi-generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T08:47:48.468Z",
               "EditorCaption": ""
